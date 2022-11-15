@@ -1,0 +1,1 @@
+print("Lo tqm profe")
