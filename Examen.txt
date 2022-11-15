@@ -1,0 +1,45 @@
+Aquí va la parte uno de mi examen :)
+
+1.	Define que es una memoria y los tipos que existen 
+La memoria es lo que almacena información durante cierto tiempo, esta nos da una de las principales funciones en la computación hoy en día, un ejemplo de memoria puede ser la RAM, ROM, caché, memoria “swap”, disco duro y SSD
+2.	Define que es un sistema de control de versiones
+Son software que ayudan a realizar un seguimiento de los cambios que se realizan en un código. 
+
+3.	Define que es el hardware y menciona 3 ejemplos
+El hardware es todo lo tangible de una computadora, es decir todo lo que se puede ver y tocar; como el disco rígido, la memoria RAM o el mouse.
+
+4.	Que es un sistema operativo
+Es un programa o conjunto de programas en un sistema operativo, que administra los recursos del hardware, los protocolos de ejecución del software, etc. 
+
+5.	Que es el BIOS
+Es un chip instalado en la placa base de un firmware, este realiza funciones básicas. Este indica al pc las funciones básicas de arranque y el control, también gestiona tareas de identificación y configuración del hardware.
+
+6.	Que es el UEFI
+Es muy parecido a la BIOS, tiene mejoras de este ya que es su predecesor por así decirlo, una de sus mejoras es la interfaz gráfica, sistema de inicio seguro y/o soporte para discos duros de más de 2TB.
+
+7.	Cuál es la diferencia entrega una máquina virtual de sistema y una de proceso.
+La mayor diferencia es que en la de proceso tienes cierto límite ya que solo aguanta un proceso, y en la maquina virtual de sistema permite ejecutar varias maquinas de virtuales y en ellas puedes ejecutar un sistema operativo, gracias a eso, te puede dar más eficiencia aunque no tanta potencia en comparación de la otra. 
+
+8.	Como se configuran las variables globales de una cuenta en GIT
+Se configuran con 
+git config – global user.name “xxxx”
+git config –global user.email xxxxx@xxxxx
+git config –global core.editor xxxxx
+Para comprobar la configuración se utiliza:
+git config –list
+Ejemplo de como quedaría  
+git config – global user.name “Itandehui”
+git config –global user.email ithan120204@gmail.com 
+git config –global core.editor emacs
+Para comprobar la configuración se utiliza:
+git config –ls
+user.name=Itandehui
+user.email = ithan120204@gmail.com
+color.status=auto
+…
+
+9.	Define que es una ruta relativa
+Es un archivo que va paralelo al archivo principal, crea una copia donde tu le diste la orden, sobre este archivo puede crear otro más y así sucesivamente, es como las ramas de un árbol. 
+
+10.	Define que es un editor de código.
+Es un programa diseñado para para editar el código fuente de programas. Puede ser individual, o puede venir incluido en un entorno de desarrollo integrado. Este permite editar el código fuente en diferentes lenguajes de programación, un ejemplo claro de esto es el editor Visual Studio Code.
